@@ -9,9 +9,11 @@ Side menu not yet clicked:
 <img src="ResponsiveSideMenu-start.png" width=450>
 
 Side menu clicked:
+
 <img src="ResponsiveSideMenu-opened.png" width=450>
 
 Responsive top menu:
+
 <img src="ResponsiveSideMenu-small.png" width=450>
 
 
